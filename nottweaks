@@ -52,12 +52,12 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSCameraUsageDescription": "Needed to record videos and scan QR.",
+          "NSCameraUsageDescription": "Needed to record videos and scan QR codes.",
           "NSFaceIDUsageDescription": "Use Face ID instead of a password to access your account.",
           "NSMainNibFile": "Launch Screen",
-          "NSMicrophoneUsageDescription": "Needed access to your Microphoneâs camera.",
-          "NSPhotoLibraryAddUsageDescription": "Needed to store the selected image to your photos.",
-          "NSUserNotificationsUsageDescription": "Notifications may include security alerts, sounds and icon badges. These can be configured in Settings."
+          "NSMicrophoneUsageDescription": "Needed access to your microphone's camera.",
+          "NSPhotoLibraryAddUsageDescription": "Needed to store the selected image in your photos.",
+          "NSUserNotificationsUsageDescription": "Notifications may include security alerts, sounds, and icon badges. These can be configured in Settings."
         }
       },
       "patreon": {}
@@ -164,10 +164,10 @@
         "entitlements": [],
         "privacy": {
           "NSAppleMusicUsageDescription": "CapCut requires permission to import and add music from Apple's media library to video editing project files.",
-          "NSCameraUsageDescription": "CapCut requires permission to use the camera to capture photos and videos for video editing, saving, publishing.",
-          "NSMicrophoneUsageDescription": "CapCut requires permission to access your microphone to record sounds for video editing, saving, publishing.",
-          "NSPhotoLibraryUsageDescription": "CapCut requires access to the album to import photos and videos to video editing project files and save videos to the device.",
-          "NSUserTrackingUsageDescription": "CapCut requires access to UserTracking to identify the device for managing data statistics, analyzing service effects, ensuring service security and improving user experience.Please rest assured that opening the permission will not obtain your private information on other sites."
+          "NSCameraUsageDescription": "CapCut requires permission to use the camera to capture photos and videos for video editing, saving, and publishing.",
+          "NSMicrophoneUsageDescription": "CapCut requires permission to access your microphone to record sounds for video editing, saving, and publishing.",
+          "NSPhotoLibraryUsageDescription": "CapCut requires access to the album to import photos and videos to project files and save videos to the device.",
+          "NSUserTrackingUsageDescription": "CapCut requires access to UserTracking to identify the device for managing data statistics, analyzing service effects, ensuring service security, and improving services."
         }
       },
       "patreon": {}
@@ -216,8 +216,8 @@
           "NSCameraUsageDescription": "This lets you use your camera to scan or upload images.",
           "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
           "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
-          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalized audio recommendations for your workouts.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalized audio recommendations for your workouts.",
           "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
           "NSLocationWhenInUseUsageDescription": "Your location is used to improve your recommendations and experience on Spotify.",
           "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
@@ -244,7 +244,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "ÐÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ ÑÑÐµÐ±ÑÐµÑÑÑ Ð´Ð¾ÑÑÑÐ¿ Ðº Ð»Ð¾ÐºÐ°Ð»ÑÐ½Ð¾Ð¹ ÑÐµÑÐ¸ Ð´Ð»Ñ ÑÐ°Ð±Ð¾ÑÑ ÑÑÐ½Ð½ÐµÐ»ÐµÐ¹ Ð´ÐµÐ²-ÑÐµÐ¶Ð¸Ð¼Ð° Ð¸ Ð¿ÑÐ¾ÑÐ¾ÐºÐ¾Ð»Ð¾Ð² ÑÐ¾Ð¿ÑÑÐ¶ÐµÐ½Ð¸Ñ."
+          "NSLocalNetworkUsageDescription": "This app requires local network access to communicate with nearby devices."
         }
       },
       "patreon": {}
