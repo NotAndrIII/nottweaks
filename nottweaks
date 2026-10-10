@@ -1,0 +1,254 @@
+{
+  "name": "NotTweaks",
+  "subtitle": "Tgk: @nottweaks",
+  "description": "Tgk: @nottweaks\nhttps://t.me/nottweaks",
+  "iconURL": "https://i.imgur.com/Jl0eQeb.png",
+  "website": "",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.lemon.lvoverseas",
+    "sh.ppy.osulazer",
+    "com.spotify.client",
+    "com.iosfreedom.swissknife.app",
+    "com.mak5er.Pocket-Poster",
+    "ch.b-eng.tor",
+    "com.jbdotparty.PancakeStore",
+    "nya.asami.ksign",
+    "com.apple.mobile.MobileHouseArrest",
+    "app.ish.iSH"
+  ],
+  "apps": [
+    {
+      "name": "Pocket Poster",
+      "bundleIdentifier": "com.mak5er.Pocket-Poster",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/1PfIKZC.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "TorBrowser",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/OesaxHI.png",
+      "tintColor": "#9452b6",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Needed to record videos and scan QR.",
+          "NSFaceIDUsageDescription": "Use Face ID instead of a password to access your account.",
+          "NSMainNibFile": "Launch Screen",
+          "NSMicrophoneUsageDescription": "Needed access to your Microphoneâs camera.",
+          "NSPhotoLibraryAddUsageDescription": "Needed to store the selected image to your photos.",
+          "NSUserNotificationsUsageDescription": "Notifications may include security alerts, sounds and icon badges. These can be configured in Settings."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PancakeStore",
+      "bundleIdentifier": "com.jbdotparty.PancakeStore",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/kfwUn8z.png",
+      "tintColor": "#fc8c34",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSFaceIDUsageDescription": "To securely store your Apple ID authentication information, biometric authentication is required."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Ksign",
+      "bundleIdentifier": "nya.asami.ksign",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/tJ3lPRu.png",
+      "tintColor": "#0494fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSHumanReadableCopyright": "Copyright (c) 2025 Nagata Asami"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "3105",
+      "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/ySZ7NZs.png",
+      "tintColor": "#dd6421",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSDocumentsFolderUsageDescription": "3105 needs access to documents.",
+          "NSPhotoLibraryUsageDescription": "3105 needs access to photos for wallpaper customization."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "iSH",
+      "bundleIdentifier": "app.ish.iSH",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/yIjaLld.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Programs running in iSH will be allowed to track your location in the background.",
+          "NSLocationWhenInUseUsageDescription": "Programs running in iSH will be allowed to see your location.",
+          "NSLocationAlwaysUsageDescription": "Programs running in iSH will be allowed to track your location in the background.",
+          "NSLocalNetworkUsageDescription": "This is required for connecting to localhost and using the ping command."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "CapCut",
+      "bundleIdentifier": "com.lemon.lvoverseas",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/0jJfp68.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "CapCut requires permission to import and add music from Apple's media library to video editing project files.",
+          "NSCameraUsageDescription": "CapCut requires permission to use the camera to capture photos and videos for video editing, saving, publishing.",
+          "NSMicrophoneUsageDescription": "CapCut requires permission to access your microphone to record sounds for video editing, saving, publishing.",
+          "NSPhotoLibraryUsageDescription": "CapCut requires access to the album to import photos and videos to video editing project files and save videos to the device.",
+          "NSUserTrackingUsageDescription": "CapCut requires access to UserTracking to identify the device for managing data statistics, analyzing service effects, ensuring service security and improving user experience.Please rest assured that opening the permission will not obtain your private information on other sites."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "osu!",
+      "bundleIdentifier": "sh.ppy.osulazer",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/nwXZkYn.png",
+      "tintColor": "#f067a5",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "We don't use Bluetooth.",
+          "NSCameraUsageDescription": "We don't use the camera.",
+          "NSMicrophoneUsageDescription": "We don't use the microphone."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/sYQjgdd.png",
+      "tintColor": "#04fc94",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSCameraUsageDescription": "This lets you use your camera to scan or upload images.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to improve your recommendations and experience on Spotify.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Swiss Knife",
+      "bundleIdentifier": "com.iosfreedom.swissknife.app",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/91TXwe9.png",
+      "tintColor": "#7e7985",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "ÐÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ ÑÑÐµÐ±ÑÐµÑÑÑ Ð´Ð¾ÑÑÑÐ¿ Ðº Ð»Ð¾ÐºÐ°Ð»ÑÐ½Ð¾Ð¹ ÑÐµÑÐ¸ Ð´Ð»Ñ ÑÐ°Ð±Ð¾ÑÑ ÑÑÐ½Ð½ÐµÐ»ÐµÐ¹ Ð´ÐµÐ²-ÑÐµÐ¶Ð¸Ð¼Ð° Ð¸ Ð¿ÑÐ¾ÑÐ¾ÐºÐ¾Ð»Ð¾Ð² ÑÐ¾Ð¿ÑÑÐ¶ÐµÐ½Ð¸Ñ."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
